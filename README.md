@@ -18,7 +18,8 @@ coming soon!
 require 'sourcebin'
 
 # Write and Send
-puts Sourcebin.write("puts('Written with Sourcebin CLI Ruby')") # return key
+#                    optional
+puts Sourcebin.write("file.rb","puts('Written with Sourcebin CLI Ruby')") # return key
 
 # Send Files
 puts Sourcebin.sendFile("./file.rb") # return key
