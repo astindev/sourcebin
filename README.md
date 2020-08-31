@@ -1,6 +1,6 @@
 # Sourcebin
 
-CLI tool that uploads text to sourceb.in . (Basically a Gem version of [haste-client](https://github.com/seejohnrun/haste-client))
+CLI tool that uploads text to sourceb.in . (Basically a Gem version of [sourcebin](https://www.npmjs.com/package/sourcebin))
 
 ## Installation
 
